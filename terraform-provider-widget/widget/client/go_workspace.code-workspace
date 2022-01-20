@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "C:\\workspace_go\\src\\github.com"
+		}
+	],
+	"settings": {
+		"go.inferGopath": true
+	}
+}
